@@ -18,14 +18,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enuri-wickramasinghe-944129314">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:enuriwickramasinghe@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/enurii.w">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="20" alt="Email" />
   </a>
 </p>
