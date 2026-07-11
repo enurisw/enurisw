@@ -17,7 +17,7 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/enuri-wickramasinghe-944129314/)">
+  <a href="https://www.linkedin.com/in/enuri-wickramasinghe-944129314">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
